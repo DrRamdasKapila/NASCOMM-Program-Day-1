@@ -1,2 +1,2 @@
-# NASCOMM-Program-Day-1
+# NASCOMM-Program
 day1
